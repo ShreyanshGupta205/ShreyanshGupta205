@@ -264,18 +264,9 @@
 
 <br/>
 
-<!-- ==================== SECTION 5: STATS & TROPHIES ==================== -->
+<!-- ==================== SECTION 5: STATS & ANALYTICS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%26%20TROPHIES&fontSize=22&fontColor=ffffff&align=center" width="100%" />
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/ShreyanshGupta205">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshGupta205&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="100%" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%26%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -289,25 +280,30 @@
 
 <br/>
 
-<!-- Main GitHub Stats & Streak Table -->
+<!-- Verified GitHub Profile Summary Cards -->
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
         <a href="https://github.com/ShreyanshGupta205">
-          <img src="https://github-readme-stats.vercel.app/api?username=ShreyanshGupta205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=9CA3AF&bg_color=0D1117" alt="GitHub Stats" width="410" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshGupta205&theme=tokyonight" alt="Profile Details" width="390" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ShreyanshGupta205">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyanshGupta205&theme=tokyonight&hide_border=true&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5D4&sideLabels=9CA3AF&background=0D1117" alt="GitHub Streak" width="410" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshGupta205&theme=tokyonight" alt="Stats" width="390" />
         </a>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center">
         <a href="https://github.com/ShreyanshGupta205">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshGupta205&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=9CA3AF&bg_color=0D1117" alt="Top Languages" width="410" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyanshGupta205&theme=tokyonight" alt="Repos Per Language" width="390" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ShreyanshGupta205">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshGupta205&theme=tokyonight" alt="Most Commit Language" width="390" />
         </a>
       </td>
     </tr>

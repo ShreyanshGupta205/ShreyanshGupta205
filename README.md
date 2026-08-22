@@ -1,163 +1,219 @@
 <div align="center">
 
-  <!-- Dynamic Typing Banner -->
+  <!-- Dynamic Capsule Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Shreyansh%20Gupta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Agentic%20AI%20Developer%20%7C%20BS%20Data%20Science%20@%20IIT%20Madras&descAlignY=62&descSize=18&descAlign=50" width="100%" />
+
+  <!-- Dynamic Typing SVG -->
   <a href="https://github.com/ShreyanshGupta205">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Shreyansh+Gupta;Full-Stack+Developer+%7C+React+%26+Firebase;Agentic+AI+Developer+(LangChain+%2B+LLMs);BS+Data+Science+%40+IIT+Madras;Snapchat+AR+Lens+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&random=false&width=620&lines=Building+Agentic+AI+Workflows+(LangChain+%2B+LLMs);Full-Stack+Architect+(React%2C+Next.js%2C+Firebase);BS+Data+Science+%40+IIT+Madras;Snapchat+Official+AR+Lens+Creator;Shipping+Scalable+%26+Production-Ready+Apps" alt="Typing SVG" />
   </a>
 
+  <br/><br/>
+
+  <!-- Quick Action & Social Badges -->
   <p align="center">
-    <strong>Crafting Scalable Full-Stack Web Apps, Autonomous AI Agent Workflows & Interactive AR Experiences</strong>
+    <a href="https://linkedin.com/in/shreyanshgupta205">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:shreyanshg2005online@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/ShreyanshGupta205">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://earthly-drab.vercel.app">
+      <img src="https://img.shields.io/badge/Live%20Projects-00DF89?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    </a>
   </p>
 
-  <!-- Quick Social Badges -->
+  <!-- Profile Views Counter -->
   <p align="center">
-    <a href="https://linkedin.com/in/shreyanshgupta205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:shreyanshg2005online@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/ShreyanshGupta205"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://earthly-drab.vercel.app"><img src="https://img.shields.io/badge/Portfolio%20Projects-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" /></a>
+    <img src="https://komarev.com/ghpvc/?username=ShreyanshGupta205&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 💫 About Me
 
-- 🎓 **Education:** Pursuing **B.S. in Data Science** at **Indian Institute of Technology (IIT) Madras** (2025–2029).
-- 💼 **Experience:** **AI Agent Developer Intern (Agentic AI)** @ **TripXplo** (Tripmilestone Tours) — Building autonomous travel planning workflows with LangChain, Claude, and OpenAI APIs.
-- 🚀 **Entrepreneurship:** Co-Founder @ **Krevva** (D2C Brand).
-- 👓 **Creative Tech:** Official **Snapchat Lens Creator** @ Snap Inc. — Designing interactive 3D AR lenses.
-- 📍 **Location:** Varanasi, Uttar Pradesh, India.
-- ⚡ **Passion:** Shipping production-ready web apps, agentic memory systems, and 3D visual web platforms.
+```yaml
+name: Shreyansh Gupta
+role: Full-Stack Developer & Agentic AI Engineer
+education: B.S. in Data Science @ Indian Institute of Technology (IIT) Madras (2025–2029)
+current_focus: Building autonomous multi-agent systems, real-time web platforms & 3D WebGL hubs
+location: Varanasi, Uttar Pradesh, India 🇮🇳
+fun_fact: Published AR Lens Creator with interactive 3D filters on Snapchat 🕶️
+```
+
+- 🤖 **AI Agent Developer Intern** @ **TripXplo** — Engineering autonomous travel agent workflows with **LangChain**, context-aware memory architectures, and **Claude & OpenAI APIs**.
+- 🚀 **Co-Founder** @ **Krevva** — D2C brand driven by modern trend analysis and quality design.
+- 🎓 **Research & Specialization** @ **IIT (BHU) Varanasi** — Sustainable Infrastructure Monitoring with AI-Inspired Machine Learning.
+- 🏆 **Campus Leadership** — Campus Ambassador at **Tatva IIT Bombay**, **Tryst IIT Delhi**, and **BECon'26 IIT Delhi**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### ⚡ Tech Stack & Tools
 
 <div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Three.js/WebGL](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) |
-| **AI & Agentic Systems** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Claude AI](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| **Databases** | ![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Neo4j Graph](https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white) |
-| **Tools & AR** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Snap Lens Studio](https://img.shields.io/badge/Snap_Lens_Studio-FFFC00?style=flat-square&logo=snapchat&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
+  <!-- Skill Icons Matrix -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,fastapi,nodejs,tailwind,threejs,wasm,firebase,gcp,aws,docker,git,postman&perline=8&theme=dark" />
+  </a>
 </div>
+
+<br/>
+
+<details open>
+<summary><b>🔍 Detailed Breakdown by Domain</b></summary>
+<br/>
+
+| Category | Technologies |
+|:---|:---|
+| 🧠 **AI & LLM Tooling** | `LangChain` `OpenAI API` `Anthropic Claude` `Google Gemini AI` `TensorFlow` `Autonomous Agents` |
+| 💻 **Frontend & 3D** | `React.js` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `WebGL / Three.js` `WebAssembly` |
+| ⚙️ **Backend & Cloud** | `Node.js` `Express` `Python (FastAPI)` `Firebase` `Google Cloud (Cloud Run)` `AWS` |
+| 🗄️ **Databases** | `Firebase Firestore / Realtime DB` `Neo4j Graph Database` `MongoDB` `PostgreSQL` |
+| 🛠️ **DevOps & AR Tools**| `Git` `GitHub Actions` `Snap Lens Studio (AR/3D)` `Vercel` `Postman` `Vite` |
+
+</details>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Creations & Live Deployments
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌱 Earthly</h3>
-      <p align="center"><strong>AI-Powered Carbon Footprint Tracker</strong></p>
-      <p>Log daily transport, energy, food & waste with personalized weekly AI insights, gamified streaks, and Green Score analytics.</p>
-      <p><strong>Stack:</strong> <code>React</code> <code>Firebase</code> <code>Cloud Run</code> <code>Google Gemini AI</code></p>
-      <p align="center">
-        <a href="https://earthly-drab.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D2FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
-      </p>
+      <div align="center">
+        <h3>🌱 Earthly</h3>
+        <img src="https://img.shields.io/badge/AI%20%2B%20Sustainability-00DF89?style=flat-square" />
+      </div>
+      <p><b>AI-Powered Carbon Footprint Tracker</b> that calculates personal consumption across transport, energy, and food with weekly insights generated via <b>Google Gemini AI</b>, gamified streaks, and exportable analytics.</p>
+      <p><b>Stack:</b> <code>React</code> <code>Firebase Auth & DB</code> <code>Cloud Run</code> <code>Gemini AI</code></p>
+      <div align="center">
+        <a href="https://earthly-drab.vercel.app"><img src="https://img.shields.io/badge/⚡%20Live%20Demo-00D2FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏎️ Grid Zero</h3>
-      <p align="center"><strong>Interactive F1 Data & 3D Visualization Hub</strong></p>
-      <p>Immersive Formula 1 fan platform featuring a real-time WebGL 3D car viewer, telemetry-style UI, and dynamic strategy panels.</p>
-      <p><strong>Stack:</strong> <code>React</code> <code>WebGL / Three.js</code> <code>Data Visualization</code></p>
-      <p align="center">
-        <a href="https://grid-zero.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-E10600?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ AML SecureNet</h3>
-      <p align="center"><strong>Graph-Based Anti-Money Laundering Detection</strong></p>
-      <p>Client-side financial fraud detection engine mapping transaction graphs to surface smurfing and circular routing with zero server data leakage.</p>
-      <p><strong>Stack:</strong> <code>React</code> <code>WebAssembly</code> <code>FastAPI</code> <code>Neo4j</code> <code>TensorFlow</code></p>
-      <p align="center">
-        <a href="https://money-muling-front-end-fozm.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ VaultIQ AI (OmniBackup)</h3>
-      <p align="center"><strong>Unified Cloud Storage & Duplicate Optimizer</strong></p>
-      <p>Connect and orchestrate Google Drive, Dropbox, and OneDrive in one dashboard with AI duplicate detection and SaaS tier management.</p>
-      <p><strong>Stack:</strong> <code>React</code> <code>Cloud APIs</code> <code>AI File Analysis</code> <code>SaaS UI</code></p>
-      <p align="center">
-        <a href="https://frontend-wheat-six-38.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      </p>
+      <div align="center">
+        <h3>🏎️ Grid Zero</h3>
+        <img src="https://img.shields.io/badge/3D%20WebGL%20%2B%20Telemetry-E10600?style=flat-square" />
+      </div>
+      <p><b>Interactive Formula 1 Hub & 3D Visualization Platform</b> featuring real-time WebGL race car rendering, live telemetry animation, standings panels, and responsive UI components.</p>
+      <p><b>Stack:</b> <code>React</code> <code>Three.js / WebGL</code> <code>Custom Shaders & Anim</code></p>
+      <div align="center">
+        <a href="https://grid-zero.vercel.app"><img src="https://img.shields.io/badge/⚡%20Live%20Demo-E10600?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💬 Chatterverse</h3>
-      <p align="center"><strong>Real-Time Instant Messaging Platform</strong></p>
-      <p>High-performance web chat app with live subscriptions, message state synchronization, and secure user authentication.</p>
-      <p><strong>Stack:</strong> <code>React</code> <code>Firebase Auth</code> <code>Real-Time Database</code></p>
-      <p align="center">
-        <a href="https://chatterverse-gilt.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FFA000?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
-      </p>
+      <div align="center">
+        <h3>🛡️ AML SecureNet</h3>
+        <img src="https://img.shields.io/badge/Hackathon%20Winner-FFB800?style=flat-square" />
+      </div>
+      <p><b>Graph-Based Money Laundering Detection Engine</b>. Performs client-side graph analysis with zero server exposure to detect circular routing, smurfing, and complex shell networks.</p>
+      <p><b>Stack:</b> <code>React</code> <code>WebAssembly</code> <code>FastAPI</code> <code>Neo4j</code> <code>TensorFlow</code></p>
+      <div align="center">
+        <a href="https://money-muling-front-end-fozm.vercel.app"><img src="https://img.shields.io/badge/⚡%20Live%20Demo-FFB800?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎫 Eventra</h3>
-      <p align="center"><strong>AI-Orchestrated Smart Event Experience</strong></p>
-      <p>Smart event platform with live crowd density tracking, QR check-in flows, and real-time operational health dashboards.</p>
-      <p><strong>Stack:</strong> <code>React</code> <code>Next.js</code> <code>Real-time Dashboards</code></p>
-      <p align="center">
-        <a href="https://physical-event-experience-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      </p>
+      <div align="center">
+        <h3>☁️ VaultIQ AI</h3>
+        <img src="https://img.shields.io/badge/Cloud%20SaaS-4285F4?style=flat-square" />
+      </div>
+      <p><b>Unified Cloud Storage & Duplicate Detection Dashboard</b> connecting Google Drive, Dropbox, and OneDrive in a single unified interface powered by AI storage deduplication algorithms.</p>
+      <p><b>Stack:</b> <code>React</code> <code>Cloud APIs</code> <code>AI File Analysis</code> <code>SaaS UI</code></p>
+      <div align="center">
+        <a href="https://frontend-wheat-six-38.vercel.app"><img src="https://img.shields.io/badge/⚡%20Live%20Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>💬 Chatterverse</h3>
+        <img src="https://img.shields.io/badge/Real--Time-FFA000?style=flat-square" />
+      </div>
+      <p><b>Real-Time Instant Messaging Web Application</b> featuring live socket-like database syncing, user status indicators, dynamic channels, and seamless authentication flows.</p>
+      <p><b>Stack:</b> <code>React</code> <code>Firebase Realtime DB</code> <code>Firebase Auth</code></p>
+      <div align="center">
+        <a href="https://chatterverse-gilt.vercel.app"><img src="https://img.shields.io/badge/⚡%20Live%20Demo-FFA000?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🎫 Eventra</h3>
+        <img src="https://img.shields.io/badge/Smart%20Events-7928CA?style=flat-square" />
+      </div>
+      <p><b>AI-Orchestrated Smart Event Platform</b> designed for venue health monitoring, real-time crowd density estimation, instant QR check-in flows, and multi-tier organizer coordination.</p>
+      <p><b>Stack:</b> <code>React</code> <code>Next.js</code> <code>Real-time Dashboards</code></p>
+      <div align="center">
+        <a href="https://physical-event-experience-five.vercel.app"><img src="https://img.shields.io/badge/⚡%20Live%20Demo-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📜 Certifications & Achievements
+### 🏆 Certifications & Credentials
 
-- 🔹 **Google** — *Introduction to Generative AI*
-- 🔹 **IBM** — *Generative AI: Introduction and Applications*
-- 🔹 **Oracle** — *OCI 2025 AI Foundations Associate & Database Foundations Certified Junior Associate*
-- 🔹 **AWS** — *AWS Builders Online Series*
-- 🔹 **Cisco** — *Introduction to Modern AI*
-- 🔹 **IIT (BHU) Varanasi** — *Sustainable Infrastructure Monitoring with AI-Inspired Machine Learning*
-- 🔹 **Campus Leadership:** Ambassador @ *Tatva IIT Bombay*, *Tryst IIT Delhi*, and *BECon'26 IIT Delhi*.
-
----
-
-### 📊 GitHub & Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyanshGupta205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shreyansh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyanshGupta205&theme=tokyonight&hide_border=true" alt="Shreyansh's GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshGupta205&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+```
+📜 Google       — Introduction to Generative AI
+📜 IBM          — Generative AI: Introduction and Applications
+📜 Oracle       — OCI 2025 AI Foundations Associate & Database Foundations Certified
+📜 AWS          — AWS Builders Online Series
+📜 Cisco        — Introduction to Modern AI
+📜 IIT (BHU)    — Sustainable Infrastructure Monitoring with AI Machine Learning
+```
 
 ---
 
-### 📬 Connect With Me
+### 📊 GitHub Activity & Metrics
 
-<p align="center">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ShreyanshGupta205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D2FF&icon_color=00D2FF&text_color=9CA3AF&bg_color=0D1117" alt="GitHub Stats" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyanshGupta205&theme=tokyonight&hide_border=true&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D2FF&sideLabels=9CA3AF&background=0D1117" alt="Streak Stats" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshGupta205&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF&text_color=9CA3AF&bg_color=0D1117" alt="Top Languages" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Get In Touch
+
+<div align="center">
+  <p>Looking for a talented <b>Full-Stack / Agentic AI Engineer</b> or want to collaborate on innovative products?</p>
+  
   <a href="https://linkedin.com/in/shreyanshgupta205">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:shreyanshg2005online@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/ShreyanshGupta205">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20%40ShreyanshGupta205-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
 
-<div align="center">
-  <sub>⭐ <i>Feel free to star my repositories if you find my projects interesting!</i> ⭐</sub>
+  <br/><br/>
+  
+  <!-- Footer Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" />
+
 </div>

@@ -105,7 +105,7 @@
 
 <!-- ==================== SECTION 2: TECH STACK ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%26%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%E2%80%A2%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -154,7 +154,7 @@
 
 <!-- ==================== SECTION 3: FEATURED PROJECTS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%26%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%E2%80%A2%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -244,7 +244,7 @@
 
 <!-- ==================== SECTION 4: CERTIFICATIONS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%26%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%E2%80%A2%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -266,7 +266,7 @@
 
 <!-- ==================== SECTION 5: STATS & ANALYTICS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%26%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%E2%80%A2%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -320,7 +320,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%A4%9D%20LET'S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%A4%9D%20LET%27S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
   
   <br/><br/>
   

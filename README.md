@@ -1,25 +1,25 @@
 <div align="center">
 
-  <!-- ==================== DYNAMIC NEON HERO HEADER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050505,15:0D1B2A,40:1B263B,65:00B4D8,85:0077B6,100:00F5D4&height=260&section=header&text=SHREYANSH%20GUPTA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Agentic%20AI%20Engineer%20%E2%80%A2%20Data%20Science%20@%20IIT%20Madras&descAlignY=60&descSize=17&descAlign=50" width="100%" alt="Header" />
+  <!-- ==================== HERO CAPSULE BANNER ==================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050505,20:0A192F,45:0052D4,70:00B4D8,100:00F5D4&height=270&section=header&text=SHREYANSH%20GUPTA&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Agentic%20AI%20Engineer%20%E2%80%A2%20BS%20Data%20Science%20@%20IIT%20Madras&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
 
   <!-- ==================== ANIMATED MULTI-LINE TYPING BANNER ==================== -->
   <a href="https://github.com/ShreyanshGupta205">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Engineering+Autonomous+AI+Agents+(LangChain+%2B+LLMs);%F0%9F%9A%80+Architecting+Scalable+Full-Stack+Platforms;%F0%9F%8E%93+BS+in+Data+Science+%40+IIT+Madras+(2025-2029);%F0%9F%95%B6%EF%B8%8F+Official+Snapchat+3D+AR+Lens+Creator;%F0%9F%A7%A0+Building+Next-Gen+Graph+AI+%26+3D+WebGL+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=680&lines=%E2%9A%A1+Autonomous+AI+Agents+(LangChain+%2B+Claude+%2B+OpenAI);%F0%9F%9A%80+Architecting+Scalable+Full-Stack+Web+Platforms;%F0%9F%8E%93+BS+in+Data+Science+%40+IIT+Madras+(2025-2029);%F0%9F%95%B6%EF%B8%8F+Official+Snapchat+3D+AR+Lens+Creator;%F0%9F%A7%A0+Next-Gen+Graph+ML+%26+Interactive+3D+WebGL" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- ==================== STATUS PILLS ==================== -->
+  <!-- ==================== QUICK STATUS PILLS ==================== -->
   <p align="center">
     <a href="https://www.onlinedegree.iitm.ac.in/">
-      <img src="https://img.shields.io/badge/🎓_IIT_Madras-BS_Data_Science-0052D4?style=for-the-badge&labelColor=0D1117" alt="IIT Madras" />
+      <img src="https://img.shields.io/badge/%F0%9F%8E%93_IIT_Madras-BS_Data_Science-0052D4?style=for-the-badge&labelColor=080D1A" alt="IIT Madras" />
     </a>
     <a href="https://tripmilestone.com/">
-      <img src="https://img.shields.io/badge/🤖_TripXplo-Agentic_AI_Intern-7928CA?style=for-the-badge&labelColor=0D1117" alt="TripXplo" />
+      <img src="https://img.shields.io/badge/%F0%9F%A4%96_TripXplo-Agentic_AI_Intern-7928CA?style=for-the-badge&labelColor=080D1A" alt="TripXplo" />
     </a>
-    <img src="https://img.shields.io/badge/🚀_Co--Founder-Krevva_D2C-FF0080?style=for-the-badge&labelColor=0D1117" alt="Krevva" />
-    <img src="https://img.shields.io/badge/🕶️_Snapchat-Official_AR_Creator-FFFC00?style=for-the-badge&labelColor=0D1117&color=000000" alt="Snap AR" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Co--Founder-Krevva_D2C-FF0080?style=for-the-badge&labelColor=080D1A" alt="Krevva" />
+    <img src="https://img.shields.io/badge/%F0%9F%95%B6%EF%B8%8F_Snapchat-Official_AR_Creator-FFFC00?style=for-the-badge&labelColor=080D1A&color=000000" alt="Snap AR" />
   </p>
 
   <!-- ==================== INTERACTIVE SOCIAL & CONNECT BADGES ==================== -->
@@ -43,60 +43,57 @@
 
   <!-- ==================== PROFILE VISITOR COUNTER ==================== -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ShreyanshGupta205&color=00f5d4&style=flat-square&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ShreyanshGupta205&color=00f5d4&style=flat-square&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 </div>
 
----
-
-### 🏆 GitHub Trophies & Recognition
-
+<br/>
 <div align="center">
-  <a href="https://github.com/ShreyanshGupta205">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshGupta205&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+<br/>
+
+<!-- ==================== SECTION 1: ABOUT ME ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%92%AB%20ABOUT%20THE%20DEVELOPER&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
----
+<br/>
 
-### 🚀 Developer Terminal
-
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B;">
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="top" style="padding: 15px; background-color: #0B1120;">
 
 ```json
 {
   "engineer": "Shreyansh Gupta",
-  "origin": "Varanasi, Uttar Pradesh, India 🇮🇳",
-  "academics": {
-    "institution": "Indian Institute of Technology (IIT) Madras",
-    "degree": "B.S. in Data Science (2025 – 2029)"
+  "location": "Varanasi, Uttar Pradesh, India 🇮🇳",
+  "education": {
+    "institute": "IIT Madras",
+    "degree": "B.S. in Data Science (2025–2029)"
   },
-  "current_roles": [
+  "roles": [
     "AI Agent Developer Intern @ TripXplo",
-    "Co-Founder @ Krevva (D2C Brand)",
-    "Snapchat Lens Studio AR Creator"
+    "Co-Founder @ Krevva (D2C Clothing Brand)",
+    "Snapchat Official Lens Studio Creator"
   ],
-  "technical_domains": [
-    "Agentic Multi-Agent Systems & LangChain",
-    "Production React & Next.js Ecosystems",
-    "3D WebGL Visualization & Custom Shaders",
-    "Graph ML Fraud Detection & Graph Databases"
+  "expertise": [
+    "Autonomous Agentic Workflows (LangChain, Claude, OpenAI)",
+    "Full-Stack Web Architectures (React, Next.js, Firebase)",
+    "Interactive 3D WebGL Visualization (Three.js)",
+    "Graph ML Fraud Detection & Graph Databases (Neo4j)"
   ]
 }
 ```
 
    </td>
-   <td width="45%" valign="top">
+   <td width="45%" valign="top" style="padding: 15px; background-color: #0F172A;">
 
-#### ⚡ Quick Highlights
+<h4 align="center">⚡ Highlights & Achievements</h4>
 
-- 🤖 **Agentic AI Engineering:** Developing automated multi-model travel orchestrations with memory buffers, tool retrieval, and **Claude / OpenAI APIs** at **TripXplo**.
-- 🛡️ **Hackathon Innovation:** Engineered **AML SecureNet** — an in-browser graph-powered money laundering detection platform with zero server exposure.
+- 🤖 **Agentic AI Systems:** Engineering context-aware autonomous agent pipelines with memory architectures, tool-calling, and **Claude & OpenAI APIs** at **TripXplo**.
+- 🛡️ **Hackathon Winner:** Built **AML SecureNet** — an in-browser graph-powered money laundering detection engine with WASM & Neo4j.
 - 🎓 **IIT (BHU) Research:** Sustainable Infrastructure Monitoring utilizing AI-driven machine learning models.
 - 🌐 **Leadership Experience:** Campus Ambassador for **TATVA (IIT Bombay)**, **Tryst (IIT Delhi)**, and **BECon'26 (eDC IIT Delhi)**.
 
@@ -104,13 +101,18 @@
   </tr>
 </table>
 
----
+<br/>
 
-### 🛠️ Interactive Tech Stack & Ecosystem
+<!-- ==================== SECTION 2: TECH STACK ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%26%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 
-#### 🤖 AI, Machine Learning & Agentic Systems
+#### 🧠 Artificial Intelligence & Agentic Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi&perline=6&theme=dark" />
 </p>
@@ -148,11 +150,16 @@
 
 </div>
 
----
+<br/>
 
-### 🌟 Featured Projects & Live Deployments
+<!-- ==================== SECTION 3: FEATURED PROJECTS ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%26%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+</div>
 
-<table>
+<br/>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -160,10 +167,10 @@
         <img src="https://img.shields.io/badge/AI%20%7C%20Sustainability%20Tracker-00F5D4?style=flat-square&labelColor=0D1117" />
       </div>
       <br/>
-      <p>🌿 <b>AI-Powered Carbon Footprint Tracker</b> that calculates personal consumption across transport, energy, nutrition, and waste. Delivers personalized weekly insights via <b>Google Gemini AI</b>, gamified streaks, and analytics export.</p>
+      <p>🌿 <b>AI-Powered Carbon Footprint Tracker</b> that computes user emissions across transport, energy, nutrition, and waste. Delivers personalized weekly insights via <b>Google Gemini AI</b>, gamified streaks, and analytics export.</p>
       <p><b>🛠️ Stack:</b> <code>React</code> <code>Firebase Auth/DB</code> <code>Cloud Run</code> <code>Gemini AI</code></p>
       <div align="center">
-        <a href="https://earthly-drab.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Explore_Live_Demo-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+        <a href="https://earthly-drab.vercel.app" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_Live_Demo-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -175,7 +182,7 @@
       <p>🏁 <b>Interactive Formula 1 Hub & 3D Visualization Platform</b> with real-time WebGL race car models, animated telemetry charts, live standings, and race strategy telemetry panels.</p>
       <p><b>🛠️ Stack:</b> <code>React</code> <code>Three.js / WebGL</code> <code>Custom Shaders & Telemetry</code></p>
       <div align="center">
-        <a href="https://grid-zero.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Explore_Live_Demo-E10600?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://grid-zero.vercel.app" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_Live_Demo-E10600?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </div>
     </td>
   </tr>
@@ -189,7 +196,7 @@
       <p>🔍 <b>Graph-Based Anti-Money Laundering Detection Engine</b>. Analyzes high-frequency transactions client-side to detect circular routing, smurfing, and shell networks with zero server data leakage.</p>
       <p><b>🛠️ Stack:</b> <code>React</code> <code>WebAssembly</code> <code>FastAPI</code> <code>Neo4j</code> <code>TensorFlow</code></p>
       <div align="center">
-        <a href="https://money-muling-front-end-fozm.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Explore_Live_Demo-FFB800?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+        <a href="https://money-muling-front-end-fozm.vercel.app" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_Live_Demo-FFB800?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -201,7 +208,7 @@
       <p>📦 <b>Unified Multi-Cloud Storage Dashboard</b> unifying Google Drive, Dropbox, and OneDrive in one centralized workspace with AI duplicate file detection and tiered SaaS pricing UI.</p>
       <p><b>🛠️ Stack:</b> <code>React</code> <code>Cloud APIs</code> <code>AI File Analysis</code> <code>SaaS Dashboard</code></p>
       <div align="center">
-        <a href="https://frontend-wheat-six-38.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Explore_Live_Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://frontend-wheat-six-38.vercel.app" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_Live_Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </div>
     </td>
   </tr>
@@ -215,7 +222,7 @@
       <p>⚡ <b>Real-Time Instant Messaging Application</b> featuring synchronized state streams, active user presence indicators, instant channels, and Firebase Auth.</p>
       <p><b>🛠️ Stack:</b> <code>React</code> <code>Firebase Realtime DB</code> <code>Firebase Auth</code></p>
       <div align="center">
-        <a href="https://chatterverse-gilt.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Explore_Live_Demo-FFA000?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+        <a href="https://chatterverse-gilt.vercel.app" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_Live_Demo-FFA000?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -227,15 +234,20 @@
       <p>🎪 <b>AI-Orchestrated Smart Event Platform</b> designed for venue flow tracking, instant QR attendee check-ins, and multi-tier organizer real-time health dashboards.</p>
       <p><b>🛠️ Stack:</b> <code>React</code> <code>Next.js</code> <code>Real-time Dashboards</code></p>
       <div align="center">
-        <a href="https://physical-event-experience-five.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Explore_Live_Demo-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://physical-event-experience-five.vercel.app" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_Live_Demo-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </div>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 📜 Verified Certifications & Credentials
+<!-- ==================== SECTION 4: CERTIFICATIONS ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%26%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -250,20 +262,35 @@
 
 </div>
 
----
+<br/>
 
-### 📈 Contribution Activity & Live Stats
-
+<!-- ==================== SECTION 5: STATS & TROPHIES ==================== -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%26%20TROPHIES&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+</div>
 
-  <!-- Interactive Activity Graph -->
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <a href="https://github.com/ShreyanshGupta205">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshGupta205&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="100%" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Interactive Activity Graph -->
+<div align="center">
   <a href="https://github.com/ShreyanshGupta205">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshGupta205&theme=tokyo-night&hide_border=true&area=true&color=00F5D4" alt="Activity Graph" width="100%" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
-  <!-- Main GitHub Stats & Streak Table -->
+<!-- Main GitHub Stats & Streak Table -->
+<div align="center">
   <table border="0">
     <tr>
       <td align="center">
@@ -285,25 +312,23 @@
       </td>
     </tr>
   </table>
-
 </div>
 
----
+<br/>
 
-### 💬 Daily Developer Inspiration
-
+<!-- ==================== SECTION 6: INSPIRATION & CONNECT ==================== -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 <br/>
 
----
-
-### 🤝 Let's Connect & Collaborate!
-
 <div align="center">
-  <p>I am always looking forward to discussing <b>Agentic AI systems, scalable full-stack products, freelance projects, and research collaborations.</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%A4%9D%20LET'S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  
+  <br/><br/>
+  
+  <p>I am always open to discussing <b>Agentic AI systems, scalable full-stack products, freelance projects, and research collaborations.</b></p>
 
   <a href="https://linkedin.com/in/shreyanshgupta205" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20%E2%86%92-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -322,6 +347,6 @@
   <p><sub>⭐️ <b>Star my repositories if you find anything helpful or interesting!</b> ⭐️</sub></p>
 
   <!-- Animated Bottom Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050505,15:0D1B2A,40:1B263B,65:00B4D8,85:0077B6,100:00F5D4&height=130&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050505,20:0A192F,45:0052D4,70:00B4D8,100:00F5D4&height=130&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
